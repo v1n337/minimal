@@ -2,13 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# [](#header-1)About Me
 
-[Link to another page](another-page).
+I'm a graduate student currently enrolled in the Master of Mathematics (Computer Science) program at the University of Waterloo.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+My research interests include statistical learning and its applications to Natural Language Processing, and my research is supervised by [Dr. Olga Vechtomova](http://ov-research.uwaterloo.ca/).
 
 # [](#header-1)Header 1
 
