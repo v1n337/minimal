@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# About Me
 
 I'm a graduate student currently enrolled in the Master of Mathematics (Computer Science) program at the University of Waterloo.
 
