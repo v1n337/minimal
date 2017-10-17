@@ -25,3 +25,9 @@ My research interests include statistical learning and its applications to Natur
 * **_Description:_** Alexa skill that aggregates public tweets in a user-defined time period, analyzes and reports the corresponding sentiment to users.
 * **_Stack:_** AWS Lambda, NLTK, Vader, Alexa Skills Kit, Python-Twitter
 * **_Source Code:_** [Github](https://github.com/v1n337/organization-sentiment-skill)
+
+### Research Notes
+
+* **_Description:_** My curated list of research papers along with a high-level overview of each paper's objectives, methods and results, in addition to my observations and comments. Most, if not all the papers, constitute important research in the field of Natural Language Processing / Computational Linguistics.
+* **_Stack:_** LaTeX
+* **_Source Code:_** [Github](https://github.com/v1n337/research-review-notes)
