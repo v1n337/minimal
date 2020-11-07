@@ -1,4 +1,5 @@
 _site
+.ruby-version
 .sass-cache
 Gemfile.lock
 *.gem
