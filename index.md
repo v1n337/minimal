@@ -3,9 +3,11 @@ layout: default
 ---
 # About Me
 
-I'm a graduate student currently enrolled in the Master of Mathematics (Computer Science) program at the University of Waterloo.
+I'm a software development engineer working at Amazon Web Services, Vancouver. 
 
-My research interests include statistical learning and its applications to Natural Language Processing, and my research is supervised by [Dr. Olga Vechtomova](http://ov-research.uwaterloo.ca/).
+I solve problems in the Billing Insights domain. I've previously worked in functional domains like ERP and Advertising.
+
+My research interests include statistical learning and its applications to Natural Language Processing, and my graduate research was supervised by [Dr. Olga Vechtomova](http://ov-research.uwaterloo.ca/).
 
 ## Publications and Technical Reports
 
@@ -14,11 +16,19 @@ My research interests include statistical learning and its applications to Natur
 
 ## Recent Projects
 
-### Generative Text Modelling for Amazon Reviews
+### Disentangled Representation Learning for Non-Parallel Text Style Transfer
 
-* **_Description:_** Generative adversarial network with a discriminative classifier and a review generator to build a language model by reproducing review text and predicting sentiment class at the same time.
-* **_Stack:_** Tensorflow, Scikit-Learn, NLTK
-* **_Source Code:_** [Github](https://github.com/v1n337/tf-generative-model)
+* **_Description:_** This paper tackles the problem of disentangling the latent representations of style and content in language models.  This disentangled latent representation learning can be applied to style transfer on non-parallel corpora.
+* **_Stack:_** Tensorflow, NLTK
+* **_Publication:_** [ACL 2019](https://www.aclweb.org/anthology/P19-1041/)
+* **_Source Code:_** [Github](https://github.com/vineetjohn/linguistic-style-transfer)
+
+### Questrade: Capital Gains Compute
+
+* **_Description:_** Personal utility to compute capital gains in Questrade investment accounts.
+* **_Stack:_** Clojure, Questrade API
+* **_Source Code:_** [Github](https://github.com/vineetjohn/clojure-questrade)
+
 
 ### Alexa Skill: Organization Social-Sentiment Aggregator
 
